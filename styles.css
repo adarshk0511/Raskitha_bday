@@ -1,0 +1,212 @@
+.one{
+    height: 800px;
+    position: relative;
+    top: 0%;
+    left: 0%;
+    
+}   
+
+.one h1{
+    background-color: rgba(0, 0, 0, 0.9);
+    color:#ffff;
+    padding: 30px;
+    margin: 20px;
+    position:absolute;
+    top: 85px;
+    left: 120px;
+    font-family: 'Abril Fatface', cursive;
+    border-radius: 10px;
+}
+
+.one .pa1{
+    width: 550px;   
+    position: absolute;
+    top: 270px;
+    left: 120px;
+    font-size: 30px;
+    font-family: 'Satisfy', cursive;
+}
+.one .pa2{
+    width: 600px;   
+    position: absolute;
+    top: 400px;
+    left: 120px;
+    font-size: 30px;
+    font-family: 'Satisfy', cursive;
+}
+.one .p1{
+    border-radius: 20px;
+    position: absolute;
+    right: 20px;
+    top: 130px;
+    height: 550px;
+    width: 300px;
+}
+
+.one .p2{
+    border-radius: 20px;
+    position: absolute;
+    right: 290px;
+    top: 100px;
+    height: 600px;
+    width: 350px;
+}
+
+
+/* ====================DIV TWO=================== */
+
+.two{
+    height: 800px;
+    position: relative;
+    top: 0%;
+    left: 0%;
+    
+}
+
+.two h1{
+    background-color: rgba(0, 0, 0, 0.9);
+    color:#ffff;
+    padding: 30px;
+    margin: 20px;
+    position:absolute;
+    top: 85px;
+    right: 100px;
+    font-family: 'Abril Fatface', cursive;
+    border-radius: 10px;
+}
+
+.two .pa1{
+    width: 550px;   
+    position: absolute;
+    top: 270px;
+    right: 100px;
+    font-size: 30px;
+    font-family: 'Satisfy', cursive;
+}
+.two .pa2{
+    width: 600px;   
+    position: absolute;
+    top: 400px;
+    right: 100px;
+    font-size: 30px;
+    font-family: 'Satisfy', cursive;
+}
+.two .p1{
+    border-radius: 20px;
+    position: absolute;
+    left: 340px;
+    top: 130px;
+    height: 550px;
+    width: 300px;
+}
+
+.two .p2{
+    border-radius: 20px;
+    position: absolute;
+    left: 20px;
+    top: 100px;
+    height: 600px;
+    width: 350px;
+}
+
+/*================= DIV THREE================= */
+
+.three{
+    height: 800px;
+    position: relative;
+    top: 0%;
+    left: 0%;
+    
+}   
+
+.three h1{
+    background-color: rgba(0, 0, 0, 0.9);
+    color:#ffff;
+    padding: 30px;
+    margin: 20px;
+    position:absolute;
+    top: 85px;
+    left: 120px;
+    font-family: 'Abril Fatface', cursive;
+    border-radius: 10px;
+}
+
+.three .pa1{
+    width: 550px;   
+    position: absolute;
+    top: 270px;
+    left: 120px;
+    font-size: 30px;
+    font-family: 'Satisfy', cursive;
+}
+.three .pa2{
+    width: 600px;   
+    position: absolute;
+    top: 310px;
+    left: 120px;
+    font-size: 30px;
+    font-family: 'Satisfy', cursive;
+}
+.three .pa3{
+    width: 600px;   
+    position: absolute;
+    top: 350px;
+    left: 120px;
+    font-size: 30px;
+    font-family: 'Satisfy', cursive;
+}
+.three .pa4{
+    width: 600px;   
+    position: absolute;
+    top: 390px;
+    left: 120px;
+    font-size: 35px;
+    font-family: 'Satisfy', cursive;
+}
+.three .p1{
+    border-radius: 20px;
+    position: absolute;
+    right: 20px;
+    top: 70px;
+    height: 350px;
+    width: 500px;
+}
+
+.three .p2{
+    border-radius: 20px;
+    position: absolute;
+    right: 170px;
+    top: 430px;
+    height: 380px;
+    width: 350px;
+}
+.three .p3{
+    border-radius: 20px;
+    position: absolute;
+    right: 530px;
+    top: 100px;
+    height: 600px;
+    width: 350px;
+}
+
+/* =============== DIV FIVE ================== */
+
+.five{
+    height: 100px;
+    /* width: 1250px; */
+    position: relative;
+    top: 0%;
+    left: 0%;
+    background: #141E30;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #243B55, #141E30);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #243B55, #141E30); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    font-family: 'Abril Fatface', cursive;
+}
+
+.five h1{
+    position: absolute;
+    top: 25px;
+    left: 500px;
+    color: aliceblue;
+    font-family: 'Satisfy', cursive;
+}
